@@ -15,7 +15,7 @@ Have a nice day.
 * [linkedin](https://www.linkedin.com/in/jalvarez94/)
 * [gmail](mailto:j.alvarez9438@gmail.com)
 * [telegram](https://t.me/flakula)
-* [curriculum vitae](https://github.com/flakula/flakula/raw/main/cv_jl.pdf)
+<!-- * [curriculum vitae](https://github.com/flakula/flakula/raw/main/cv_jl.pdf) -->
 <!-- * [whatsapp](https://api.whatsapp.com/send?phone=+5358176090) -->
 <!-- * [reddit](https://www.reddit.com/user/j0s3lu1s38) -->
 <!-- * [hackerrank](https://github.com/flakula) -->
